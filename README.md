@@ -1,4 +1,4 @@
 # RandomPoem
 随即诗句接口
 
-[演示地址](https://poem.xn--tiyy81g.eu.org/)
+[演示地址](https://poem.原子核.eu.org/)
